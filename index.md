@@ -22,8 +22,7 @@ Proceedings of 26nd Annual Network & Distributed System Security Symposium (*NDS
 
 3. Towards Fine-grained Network Forensics and Diagnosis in the SDN Era.\\
 Haopei Wang, Guangliang Yang, Phakpoom Chinprutthiwong, **Lei Xu**, Yangyong Zhang and Guofei Gu.\\
-Proceedings of the 25th  ACM Conference on Computer and Communications Security (**CCS'18**\
-), Toronto, Canada, October 2018.
+Proceedings of the 25th  ACM Conference on Computer and Communications Security (**CCS'18**), Toronto, Canada, October 2018.
 
 4. Control Plane Reflection Attacks in SDNs: New Attacks and Countermeasures.\\
 Menghao Zhang, Guanyu Li, **Lei Xu**, Guofei Gu, Jun Bi and Jiasong Bai.\\
