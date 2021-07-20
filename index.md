@@ -14,15 +14,15 @@ Before joining Palo Alto Networks, I received my Ph.D. in Computer Science and E
 
 1. Control Plane Reflection Attacks and Defenses in Software-Defined Networks.\\
 Menghao Zhang, Guanyu Li, **Lei Xu**, Jiasong Bai, Mingwei Xu, Guofei Gu, Jianping Wu.\\
-In IEEE/ACM Transactions on Networking (*TON*), vol. 29, no. 2, pp. 623-636, April 2021.
+IEEE/ACM Transactions on Networking (*TON*), vol. 29, no. 2, pp. 623-636, April 2021.
 
 2. Life after Speech Recognition: Fuzzing Semantic Misinterpretation for Voice Assistant Applications.\\
 Yangyong Zhang, **Lei Xu**, Abner Mendoza, Phakpoom Chinprutthiwong and Guofei Gu.\\
-Proceedings of 26nd Annual Network \& Distributed System Security Symposium (*NDSS'19*), San Diego, CA, USA. February 2019. 
+Proceedings of 26nd Annual Network & Distributed System Security Symposium (*NDSS'19*), San Diego, CA, USA. February 2019. 
 
 3. Towards Fine-grained Network Forensics and Diagnosis in the SDN Era.\\
 Haopei Wang, Guangliang Yang, Phakpoom Chinprutthiwong, **Lei Xu**, Yangyong Zhang and Guofei Gu.\\
-Proc. of the 25th  ACM Conference on Computer and Communications Security (*CCS'18*), Toronto, Canada, October 2018.
+Proceedings of the 25th  ACM Conference on Computer and Communications Security (*CCS'18*), Toronto, Canada, October 2018.
 
 4. Control Plane Reflection Attacks in SDNs: New Attacks and Countermeasures.\\
 Menghao Zhang, Guanyu Li, **Lei Xu**, Guofei Gu, Jun Bi and Jiasong Bai.\\
@@ -46,7 +46,7 @@ Proceedings of The 25th International Conference on Computer Communication and N
 
 9. Towards SDN-Defined Programmable BYOD (Bring Your Own Device) Security.\\
 Sungmin Hong, Robert Baykov, **Lei Xu**, Srinath Nadimpalli, Guofei Gu.\\
-Proceedings of the Network and Distributed System Security Symposium (*NDSS'16*), San Diego, California, February 2016.
+Proceedings of the Network & Distributed System Security Symposium (*NDSS'16*), San Diego, California, February 2016.
 
 10. FloodGuard: A DoS Attack Prevention Extension in Software-Defined Networks.\\
 Haopei Wang, **Lei Xu**, Guofei Gu.\\
@@ -54,7 +54,7 @@ Proceedings of the 45th Annual IEEE/IFIP International Conference on Dependable 
 
 11. Poisoning Network Visibility in Software-Defined Networks: New Attacks and Countermeasures.\\
 [**Lei Xu**, Sungmin Hong], Haopei Wang, Guofei Gu.\\
-Proceedings of 22nd Annual Network \& Distributed System Security Symposium (*NDSS'15*), San Diego, CA, USA. February 2015. (**co-first author**)
+Proceedings of 22nd Annual Network & Distributed System Security Symposium (*NDSS'15*), San Diego, CA, USA. February 2015. (**co-first author**)
 
 12. SRID: State Relation based Intrusion Detection for False Data Injection Attacks in SCADA.\\
 Yong Wang, Zhaoyan Xu, Jialong Zhang, **Lei Xu**, Haopei Wang and Guofei Gu.\\
