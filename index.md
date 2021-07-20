@@ -64,7 +64,7 @@ Proceedings of the 19th European Symposium on Research in Computer Security (*ES
 
 ## Pattents
 
-1. Extensible information architecture for enabling programming security in enterprise clouds
+1. Extensible information architecture for enabling programming security in enterprise clouds.\\
 David Ott, **Lei Xu** and Dennis R. Moreau.\\
 US Patent Application 16/288,681.
 
@@ -75,9 +75,9 @@ US Patent Application 16/255,551.
 ## Professional Services
 
 **Program Committee Member:**
-IEEE ICC Communication and Information Systems Security Symposium, 2020, 2021, 2022\\
-International  Conference  on  Security  and  Privacy  in  DigitalEconomy, Zhengjiang, China, 2020\\
-ACM SDN-NFV Security Workshop,  Dallas, TX, 2016,2018,2019
+IEEE ICC Communication and Information Systems Security Symposium, 2020, 2021, 2022.\\
+International  Conference  on  Security  and  Privacy  in  DigitalEconomy, Zhengjiang, China, 2020.\\
+ACM SDN-NFV Security Workshop,  Dallas, TX, 2016,2018,2019.
 
 
 
