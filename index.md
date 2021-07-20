@@ -9,7 +9,7 @@ Before joining Palo Alto Networks, I received my Ph.D. in Computer Science and E
 <em>[Email]   x.rayyle AT gmail.com </em>
 
 
-## Publications ## [google scholar](https://scholar.google.com/citations?user=c5prrg8AAAAJ&hl=en)
+## Publications [google scholar](https://scholar.google.com/citations?user=c5prrg8AAAAJ&hl=en)
 
 
 1. Control Plane Reflection Attacks and Defenses in Software-Defined Networks.\\
