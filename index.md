@@ -11,7 +11,7 @@ Before joining Palo Alto Networks, I received my Ph.D. in Computer Science and E
 
 ## Publications
 
-12.  Plane Reflection Attacks and Defenses in Software-Defined Networks
+1. Control Plane Reflection Attacks and Defenses in Software-Defined Networks
 Menghao Zhang, Guanyu Li, **Lei Xu**, Jiasong Bai, Mingwei Xu, Guofei Gu, Jianping Wu. 
 In IEEE/ACM Transactions on Networking (*TON*), vol. 29, no. 2, pp. 623-636, April 2021.
 
