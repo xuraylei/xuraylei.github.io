@@ -22,11 +22,12 @@ Proceedings of 26nd Annual Network & Distributed System Security Symposium (*NDS
 
 3. Towards Fine-grained Network Forensics and Diagnosis in the SDN Era.\\
 Haopei Wang, Guangliang Yang, Phakpoom Chinprutthiwong, **Lei Xu**, Yangyong Zhang and Guofei Gu.\\
-Proceedings of the 25th  ACM Conference on Computer and Communications Security (*CCS'18*), Toronto, Canada, October 2018.
+Proceedings of the 25th  ACM Conference on Computer and Communications Security (**CCS'18**\
+), Toronto, Canada, October 2018.
 
 4. Control Plane Reflection Attacks in SDNs: New Attacks and Countermeasures.\\
 Menghao Zhang, Guanyu Li, **Lei Xu**, Guofei Gu, Jun Bi and Jiasong Bai.\\
-Proc. of the 21th International Symposium on Research on Attacks, Intrusions and Defenses, (*RAID'18*), 2018.
+Proc. of the 21th International Symposium on Research on Attacks, Intrusions and Defenses, (**RAID'18**), 2018.
 
 5. Effective Topology Tampering Attacks in Software-Defined Networks.\\
 Richard Skowyra, **Lei Xu**, Guofei Gu, Thomas Hobson, Veer Dedhia, James Landry, Hamed Okhravi.\\
@@ -59,4 +60,15 @@ Proceedings of 22nd Annual Network & Distributed System Security Symposium (*NDS
 12. SRID: State Relation based Intrusion Detection for False Data Injection Attacks in SCADA.\\
 Yong Wang, Zhaoyan Xu, Jialong Zhang, **Lei Xu**, Haopei Wang and Guofei Gu.\\
 Proceedings of the 19th European Symposium on Research in Computer Security (*ESORICS'14*), Wroclaw, Poland, September 2014.
+
+
+## Pattent
+
+1. Extensible information architecture for enabling programming security in enterprise clouds
+David Ott, **Lei Xu** and Dennis R. Moreau.\\
+US Patent Application 16/288,681.
+
+2. Security protection for a host computer in a computer network using cross-domain security-relevant information.\\
+David Ott, **Lei Xu**, Ruimin Sun, Vijay Ganti and Dennis R. Moreau.\\
+US Patent Application 16/255,551.
 
