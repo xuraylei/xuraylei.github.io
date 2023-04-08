@@ -13,7 +13,8 @@ Before joining Palo Alto Networks, I received my Ph.D. in Computer Science and E
 
 - SysFlow: Towards a Programmable Zero Trust Framework for System Security.\\
 [**Lei Xu**, Sungmin Hong], Jianwei Huang, Hongda Li, Hongxin Hu, Guofei Gu.\\
-In IEEE Transactions on Information Forensics and Security (TIFS), 2023.(**co-first author**)
+In IEEE Transactions on Information Forensics and Security (TIFS), 2023.\\
+(**co-first author**)
 
 - Control Plane Reflection Attacks and Defenses in Software-Defined Networks.\\
 Menghao Zhang, Guanyu Li, **Lei Xu**, Jiasong Bai, Mingwei Xu, Guofei Gu, Jianping Wu.\\
@@ -57,7 +58,8 @@ Proceedings of the 45th Annual IEEE/IFIP International Conference on Dependable 
 
 - Poisoning Network Visibility in Software-Defined Networks: New Attacks and Countermeasures.\\
 [**Lei Xu**, Sungmin Hong], Haopei Wang, Guofei Gu.\\
-Proceedings of 22nd Annual Network & Distributed System Security Symposium (*NDSS'15*), San Diego, CA, USA. February 2015. (**co-first author**)
+Proceedings of 22nd Annual Network & Distributed System Security Symposium (*NDSS'15*), San Diego, CA, USA. February 2015.\\ 
+(**co-first author**)
 
 - SRID: State Relation based Intrusion Detection for False Data Injection Attacks in SCADA.\\
 Yong Wang, Zhaoyan Xu, Jialong Zhang, **Lei Xu**, Haopei Wang and Guofei Gu.\\
