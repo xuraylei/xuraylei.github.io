@@ -11,9 +11,9 @@ Before joining Palo Alto Networks, I received my Ph.D. in Computer Science and E
 
 ## Publications ([google scholar](https://scholar.google.com/citations?user=c5prrg8AAAAJ&hl=en))
 
-- Towards a Programmable Zero Trust Framework for System Security.\\
+- SysFlow: Towards a Programmable Zero Trust Framework for System Security.\\
 [**Lei Xu**, Sungmin Hong], Jianwei Huang, Hongda Li, Hongxin Hu, Guofei Gu.\\
-In IEEE Transactions on Information Forensics and Security (TIFS), 2023.
+In IEEE Transactions on Information Forensics and Security (TIFS), 2023.(**co-first author**)
 
 - Control Plane Reflection Attacks and Defenses in Software-Defined Networks.\\
 Menghao Zhang, Guanyu Li, **Lei Xu**, Jiasong Bai, Mingwei Xu, Guofei Gu, Jianping Wu.\\
