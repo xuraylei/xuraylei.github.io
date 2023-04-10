@@ -84,9 +84,9 @@ International  Conference  on  Security  and  Privacy  in  DigitalEconomy, Zheng
 ACM SDN-NFV Security Workshop,  Dallas, TX, 2016,2018,2019.
 
 **Journal Reviewer:**
-TIFS\\
-TDSC\\
-Computer Networks\\
+TIFS
+TDSC
+Computer Networks
 
 
 
