@@ -78,14 +78,20 @@ US Patent Application 16/255,551.
 
 ## Professional Services
 
-**Program Committee Member:**\\
-- IEEE ICC Communication and Information Systems Security Symposium, 2020, 2021, 2022, 2023.\\
-- International  Conference  on  Security  and  Privacy  in  DigitalEconomy, Zhengjiang, China, 2020.\\
+**Program Committee Member:**
+
+- IEEE ICC Communication and Information Systems Security Symposium, 2020, 2021, 2022, 2023.
+ 
+- International  Conference  on  Security  and  Privacy  in  DigitalEconomy, Zhengjiang, China, 2020.
+
 - ACM SDN-NFV Security Workshop,  Dallas, TX, 2016,2018,2019.
 
-**Journal Reviewer:**\\
-- TIFS, 2018, 2019.\\
-- TDSC, 2017, 2022, 2023.\\
+**Journal Reviewer:**
+
+- TIFS, 2018, 2019.
+
+- TDSC, 2017, 2022, 2023.
+-  
 - Computer Networks, 2020.
 
 
