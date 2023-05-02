@@ -13,7 +13,7 @@ Before joining Palo Alto Networks, I received my Ph.D. in Computer Science and E
 
 - Automatic Synthesis of Network Security Services:A First Step.\\
 **Lei Xu**, Yangyong Zhang, Phakpoom Chinprutthiwong, Guofei Gu.\\
-To appear in the 32nd International Conference on Computer Communications and Networks (ICCCN 2023), Hawaii, USA, July 2023.
+To appear in the 32nd International Conference on Computer Communications and Networks (ICCCN'23), USA, 2023.
 
 
 - SysFlow: Towards a Programmable Zero Trust Framework for System Security.\\
