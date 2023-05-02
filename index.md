@@ -11,6 +11,11 @@ Before joining Palo Alto Networks, I received my Ph.D. in Computer Science and E
 
 ## Publications ([google scholar](https://scholar.google.com/citations?user=c5prrg8AAAAJ&hl=en))
 
+- Automatic Synthesis of Network Security Services:A First Step.\\
+**Lei Xu**, Yangyong Zhang, Phakpoom Chinprutthiwong, Guofei Gu.\\
+To appear in the 32nd International Conference on Computer Communications and Networks (ICCCN 2023), Hawaii, USA, July 2023.
+
+
 - SysFlow: Towards a Programmable Zero Trust Framework for System Security.\\
 [Sungmin Hong, **Lei Xu**], Jianwei Huang, Hongda Li, Hongxin Hu, Guofei Gu.\\
 In IEEE Transactions on Information Forensics and Security (TIFS), 2023.\\
