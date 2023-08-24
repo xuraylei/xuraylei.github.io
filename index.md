@@ -13,7 +13,7 @@ Before joining Palo Alto Networks, I received my Ph.D. in Computer Science and E
 
 - Automatic Synthesis of Network Security Services:A First Step.\\
 **Lei Xu**, Yangyong Zhang, Phakpoom Chinprutthiwong, Guofei Gu.\\
-To appear in the 32nd International Conference on Computer Communications and Networks (ICCCN'23), USA, 2023.
+In the 32nd International Conference on Computer Communications and Networks (ICCCN'23), USA, 2023.
 
 
 - SysFlow: Towards a Programmable Zero Trust Framework for System Security.\\
@@ -74,7 +74,7 @@ Proceedings of the 19th European Symposium on Research in Computer Security (*ES
 ## Pattents
 
 - Inline detection of encrypted malicious network sessions.\\
-**Lei Xu** Lei Xu, Stefan Achleitner, Yu Fu and Shengming Xu.\\
+**Lei Xu**, Stefan Achleitner, Yu Fu and Shengming Xu.\\
 US Patent Application 17/447,064 .
 
 - Extensible information architecture for enabling programming security in enterprise clouds.\\
