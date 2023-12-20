@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am currently a senior staff security researcher of Palo Alto Networks. 
+I am currently a principal security researcher of Palo Alto Networks. 
 Before joining Palo Alto Networks, I received my Ph.D. in Computer Science and Engineering at the Texas A&M University, College Station in 2019, under the direction of Professor Guofei Gu.
 
 
