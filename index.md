@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am currently a principal security researcher of Palo Alto Networks. 
+I am currently a principal researcher and MLE of Palo Alto Networks. 
 Before joining Palo Alto Networks, I received my Ph.D. in Computer Science and Engineering at the Texas A&M University, College Station in 2019, under the direction of Professor Guofei Gu.
 
 
@@ -73,9 +73,17 @@ Proceedings of the 19th European Symposium on Research in Computer Security (*ES
 
 ## Pattents
 
+- Kernel space feature generation for user space machine learning-based malicious network traffic detection.\\
+**Lei Xu**, Yang Ji, and Yu Fu.\\
+US Patent Application 18/355,486.
+
+- Network attack detection with targeted feature extraction from exploit tools.\\
+Zhibin Zhang, Jin Chen, Yu Fu, Stefan Achleitner, QU Bo and **Lei Xu**\\
+US Patent Application 17/862,869.
+
 - Inline detection of encrypted malicious network sessions.\\
 **Lei Xu**, Stefan Achleitner, Yu Fu and Shengming Xu.\\
-US Patent Application 17/447,064 .
+US Patent Application 17/447,064.
 
 - Extensible information architecture for enabling programming security in enterprise clouds.\\
 David Ott, **Lei Xu** and Dennis R. Moreau.\\
@@ -89,7 +97,9 @@ US Patent Application 16/255,551.
 
 **Program Committee Member:**
 
-- IEEE ICC Communication and Information Systems Security Symposium, 2020, 2021, 2022, 2023, 2024.
+- IEEE ICC Communication and Information Systems Security Symposium (ICC), 2020, 2021, 2022, 2023, 2024, 2025.
+
+- IEEE Conference on Communications and Network Security (CNS), 2025
  
 - International  Conference  on  Security  and  Privacy  in  DigitalEconomy, Zhengjiang, China, 2020.
 
