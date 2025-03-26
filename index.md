@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am currently a principal researcher and MLE of Palo Alto Networks. 
+I am currently a principal researcher of Palo Alto Networks. 
 Before joining Palo Alto Networks, I received my Ph.D. in Computer Science and Engineering at the Texas A&M University, College Station in 2019, under the direction of Professor Guofei Gu.
 
 
@@ -78,7 +78,7 @@ Proceedings of the 19th European Symposium on Research in Computer Security (*ES
 US Patent Application 18/355,486.
 
 - Network attack detection with targeted feature extraction from exploit tools.\\
-Zhibin Zhang, Jin Chen, Yu Fu, Stefan Achleitner, QU Bo and **Lei Xu**\\
+Zhibin Zhang, Jin Chen, Yu Fu, Stefan Achleitner, Qu Bo and **Lei Xu**\\
 US Patent Application 17/862,869.
 
 - Inline detection of encrypted malicious network sessions.\\
