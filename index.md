@@ -72,8 +72,8 @@ Proceedings of the 19th European Symposium on Research in Computer Security (*ES
 
 
 ## Pattents
-Adversarial training for malicious protocol data unit detection with field value perturbations
-Ajaya Neupane, Yu Fu, **Lei Xu**, Mei Wang, Fikirte Ayalke Demmese\\
+- Adversarial training for malicious protocol data unit detection with field value perturbations.\\
+Ajaya Neupane, Yu Fu, **Lei Xu**, Mei Wang, and Fikirte Ayalke Demmese.\\
 US Patent Application 18/482,719.
 
 - Kernel space feature generation for user space machine learning-based malicious network traffic detection.\\
@@ -110,7 +110,7 @@ US Patent Application 16/255,551.
 
 **Journal Reviewer:**
 
-- TIFS, 2018, 2019.
+- TIFS, 2018, 2019, 2024, 2025.
 
 - TDSC, 2017, 2022, 2023.
  
