@@ -100,7 +100,7 @@ US Patent Application 16/255,551.
 
 **Program Committee Member:**
 
-- IEEE ICC Communication and Information Systems Security Symposium (ICC), 2020, 2021, 2022, 2023, 2024, 2025.
+- IEEE ICC Communication and Information Systems Security Symposium (ICC), 2020, 2021, 2022, 2023, 2024, 2025, 2026.
 
 - IEEE Conference on Communications and Network Security (CNS), 2025
  
