@@ -102,7 +102,7 @@ US Patent Application 16/255,551.
 
 - IEEE ICC Communication and Information Systems Security Symposium (ICC), 2020, 2021, 2022, 2023, 2024, 2025, 2026.
 
-- IEEE Conference on Communications and Network Security (CNS), 2025
+- IEEE Conference on Communications and Network Security (CNS), 2025, 2026
  
 - International  Conference  on  Security  and  Privacy  in  DigitalEconomy, Zhengjiang, China, 2020.
 
@@ -112,7 +112,7 @@ US Patent Application 16/255,551.
 
 - TIFS, 2018, 2019, 2024, 2025.
 
-- TDSC, 2017, 2022, 2023.
+- TDSC, 2017, 2022, 2023, 2025.
  
 - Computer Networks, 2020.
 
