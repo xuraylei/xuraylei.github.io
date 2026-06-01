@@ -7,9 +7,8 @@ layout: default
 **Principal Machine Learning Engineer & Security Researcher @ Palo Alto Networks**  
 
 [![Email](https://img.shields.io/badge/Email-x.rayyle%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:x.rayyle@gmail.com)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=G6lIbyYAAAAJ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lei-xu-b1319754)
-[![Website](https://img.shields.io/badge/GitHub%20Pages-Website-brightgreen?style=flat-square&logo=github)](https://xuraylei.github.io/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=c5prrg8AAAAJ&hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lei-xu-87296968/)
 
 ---
 
