@@ -2,19 +2,49 @@
 layout: default
 ---
 
-I am currently a principal AI and Security researcher of Palo Alto Networks. 
-Before joining Palo Alto Networks, I received my Ph.D. in Computer Science and Engineering at the Texas A&M University, College Station in 2019, under the direction of Professor Guofei Gu.
+# Lei Xu (徐雷)
+
+**Principal Machine Learning Engineer & Security Researcher @ Palo Alto Networks**  
+
+[![Email](https://img.shields.io/badge/Email-x.rayyle%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:x.rayyle@gmail.com)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=G6lIbyYAAAAJ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lei-xu-b1319754)
+[![Website](https://img.shields.io/badge/GitHub%20Pages-Website-brightgreen?style=flat-square&logo=github)](https://xuraylei.github.io/)
+
+---
+
+## Biography & Impact
+
+I am a **Principal Machine Learning Engineer and Security Researcher** with over a decade of experience spanning cybersecurity, machine learning systems, network security, and cloud-native infrastructure. 
+
+Currently, I lead critical research and production initiatives at **Palo Alto Networks**, where I specialize in architecture and deploying enterprise-scale malicious traffic detection, encrypted command-and-control (C2) analysis, and eBPF-driven telemetry analytics. My work bridges the gap between high-throughput data science workflows and robust kernel-space defense mechanisms, translating cutting-edge AI paradigms into full-scale production products.
+
+I obtained my **Ph.D. in Computer Science and Engineering** from **Texas A&M University** under the supervision of Dr. Guofei Gu. My research on programmable security framework, SDN/NFV vulnerabilities, and automated synthesis has led to **10+ filed/issued U.S. patents** and publications in premier security venues, including **USENIX Security, NDSS, ACM CCS, IEEE TIFS, and IEEE/ACM TON**.
+
+---
+
+## 📢 Recent News
+* **[Service]** Serving as Technical Program Committee (TPC) member for IEEE ICC Communication and Information Systems Security Symposium.
+* **[Patent]** Filed a new patent application on cross-protocol malware traffic detection using multi-layered ML architectures.
+* **[Publication]** Our paper *"SysFlow: Towards a Programmable Zero Trust Framework for System Security"* got published in **IEEE TIFS**.
+
+---
+
+## Technical Toolbox
+
+* **Machine Learning & Data Science:** PyTorch, TensorFlow, scikit-learn, Kubeflow, Apache Spark, MLOps Pipelines, Sequential Classification, NLP for Threat Intelligence.
+* **Networking & Systems Security:** eBPF/XDP Telemetry, Linux Kernel-space Programming, TCP/IP, SDN/NFV Architecture, Open Virtual Switch (OVS), Network Traffic Diagnostics.
+* **Infrastructure & Languages:** Python, Java, Golang, C/C++, Linux Shell, Docker, Kubernetes, OpenShift, High-Throughput Distributed Systems.
+* **Certificates:** Cisco Certified Internetwork Expert (CCIE) Routing & Switching #26810
+
+---
 
 
-<em>[Email]   x.rayyle AT gmail.com </em>
-
-
-## Publications ([google scholar](https://scholar.google.com/citations?user=c5prrg8AAAAJ&hl=en))
+## Selected Publications ([google scholar](https://scholar.google.com/citations?user=c5prrg8AAAAJ&hl=en))
 
 - Automatic Synthesis of Network Security Services:A First Step.\\
 **Lei Xu**, Yangyong Zhang, Phakpoom Chinprutthiwong, Guofei Gu.\\
 In the 32nd International Conference on Computer Communications and Networks (ICCCN'23), USA, 2023.
-
 
 - SysFlow: Towards a Programmable Zero Trust Framework for System Security.\\
 [Sungmin Hong, **Lei Xu**], Jianwei Huang, Hongda Li, Hongxin Hu, Guofei Gu.\\
@@ -71,7 +101,7 @@ Yong Wang, Zhaoyan Xu, Jialong Zhang, **Lei Xu**, Haopei Wang and Guofei Gu.\\
 Proceedings of the 19th European Symposium on Research in Computer Security (*ESORICS'14*), Wroclaw, Poland, September 2014.
 
 
-## Pattents
+## Selected Pattents
 - Adversarial training for malicious protocol data unit detection with field value perturbations.\\
 Ajaya Neupane, Yu Fu, **Lei Xu**, Mei Wang, and Fikirte Ayalke Demmese.\\
 US Patent Application 18/482,719.
