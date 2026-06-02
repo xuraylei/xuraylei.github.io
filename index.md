@@ -1,9 +1,8 @@
-# Lei Xu (徐雷)
+# Lei Xu (徐磊)
 
 **Principal Machine Learning Engineer & Security Researcher at Palo Alto Networks**
 
 **Ph.D. in Computer Science and Engineering, Texas A&M University**
-
 
 [![Email](https://img.shields.io/badge/Email-x.rayyle%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:x.rayyle@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=c5prrg8AAAAJ&hl=en)
@@ -20,7 +19,7 @@ I earned my Ph.D. in Computer Science and Engineering from Texas A&M University 
 
 ---
 
-## 📢 Recent News
+## Recent News
 * **[Service]** Serving as Technical Program Committee (TPC) member for IEEE ICC Communication and Information Systems Security Symposium.
 * **[Patent]** Filed a new patent application on cross-protocol malware traffic detection using multi-layered ML architectures.
 * **[Publication]** Our paper *"SysFlow: Towards a Programmable Zero Trust Framework for System Security"* got published in **IEEE TIFS**.
@@ -67,8 +66,9 @@ I earned my Ph.D. in Computer Science and Engineering from Texas A&M University 
 - Yong Wang, Zhaoyan Xu, Jialong Zhang, **Lei Xu**, Haopei Wang and Guofei Gu. "SRID: State Relation based Intrusion Detection for False Data Injection Attacks in SCADA." In Proceedings of the 19th European Symposium on Research in Computer Security, 2014.
 -->
 
+---
 
-## Selected Pattents
+## Selected Patents
 - **[Systems Telemetry]** **Lei Xu**, Yang Ji, and Yu Fu. *"Kernel space feature generation for user space machine learning-based malicious network traffic detection."* US Patent Application 18/355,486.
 - **[Encrypted Traffic Security]** **Lei Xu**, Stefan Achleitner, Yu Fu, and Shengming Xu. *"Inline detection of encrypted malicious network sessions."* US Patent Application 17/447,064.
 - **[Adversarial ML Defense]** Ajaya Neupane, Yu Fu, **Lei Xu**, Mei Wang, and Fikirte Ayalke Demmese. *"Adversarial training for malicious protocol data unit detection with field value perturbations."* US Patent Application 18/482,719.
@@ -76,26 +76,17 @@ I earned my Ph.D. in Computer Science and Engineering from Texas A&M University 
 - **[Cloud Security Architecture]** David Ott, **Lei Xu**, and Dennis R. Moreau. *"Extensible information architecture for enabling programming security in enterprise clouds."* US Patent Application 16/288,681.
 - **[Cross-Domain Host Protection]** David Ott, **Lei Xu**, Ruimin Sun, Vijay Ganti, and Dennis R. Moreau. *"Security protection for a host computer in a computer network using cross-domain security-relevant information."* US Patent Application 16/255,551.
 
+---
+
 ## Professional Services
 
-**Program Committee Member:**
+### Technical Program Committee Member
+* **IEEE ICC** Communication and Information Systems Security Symposium: 2020, 2021, 2022, 2023, 2024, 2025, 2026.
+* **IEEE CNS** (Conference on Communications and Network Security): 2025, 2026.
+* International Conference on Security and Privacy in Digital Economy (Zhenjiang, China): 2020.
+* **ACM SDN-NFV Security Workshop** (Dallas, TX): 2016, 2018, 2019.
 
-- IEEE ICC Communication and Information Systems Security Symposium (ICC), 2020, 2021, 2022, 2023, 2024, 2025, 2026.
-
-- IEEE Conference on Communications and Network Security (CNS), 2025, 2026
- 
-- International  Conference  on  Security  and  Privacy  in  DigitalEconomy, Zhengjiang, China, 2020.
-
-- ACM SDN-NFV Security Workshop,  Dallas, TX, 2016,2018,2019.
-
-**Journal Reviewer:**
-
-- TIFS, 2018, 2019, 2024, 2025.
-
-- TDSC, 2017, 2022, 2023, 2025.
- 
-- Computer Networks, 2020.
-
-
-
-
+### Journal Reviewer
+* **IEEE TIFS** (Transactions on Information Forensics and Security): 2018, 2019, 2024, 2025.
+* **IEEE TDSC** (Transactions on Dependable and Secure Computing): 2017, 2022, 2023, 2025.
+* **Computer Networks** (Elsevier): 2020.
