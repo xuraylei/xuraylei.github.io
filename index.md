@@ -9,7 +9,9 @@
 ---
 
 ## About me
-I am a Principal Machine Learning Engineer and Security Researcher with over a decade of dual-domain expertise bridging the gap between high-throughput data science and line-rate system defense. Currently, I lead core research and productization initiatives at Palo Alto Networks (PANW). My work focuses on architecting and deploying enterprise-scale intelligent security systems. Specifically, I specialize in machine learning-based network threat detection and response. By injecting advanced machine learning paradigms straight into low-latency infrastructure, my team and I translate complex theoretical AI into battle-tested production engines capable of defending modern cloud-native environments. Driven by these industrial defense challenges, my engineering and research initiatives at Palo Alto Networks have yielded 10+ filed/issued U.S. patents.
+I am a Principal Machine Learning Engineer and Security Researcher with over a decade of dual-domain expertise bridging the gap between high-throughput data science and line-rate system defense. 
+
+Currently, I lead core research and productization initiatives at Palo Alto Networks (PANW). My work focuses on architecting and deploying enterprise-scale intelligent security systems. Specifically, I specialize in machine learning-based network threat detection and response. By injecting advanced machine learning paradigms straight into low-latency infrastructure, my team and I translate complex theoretical AI into battle-tested production engines capable of defending modern cloud-native environments. Driven by these industrial defense challenges, my engineering and research initiatives at Palo Alto Networks have yielded 10+ filed/issued U.S. patents.
 
 I earned my Ph.D. in Computer Science and Engineering from Texas A&M University under the mentorship of Dr. Guofei Gu. My foundational academic research focused on programmable security frameworks, SDN/NFV zero-trust architecture, and automated threat synthesis, resulting in numerous publications in premier security venues, including *USENIX Security, NDSS, ACM CCS, IEEE TIFS, and IEEE/ACM TON*.
 
