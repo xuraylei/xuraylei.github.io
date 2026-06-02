@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Lei Xu (徐雷)
 
 **Principal Machine Learning Engineer & Security Researcher @ Palo Alto Networks**  
@@ -12,13 +8,12 @@ layout: default
 
 ---
 
-## Biography & Impact
+## About me
+I am a **Principal Machine Learning Engineer and Security Researcher** with over a decade of dual-domain expertise bridging the gap between high-throughput data science and line-rate system defense. Currently, I lead core research and productization initiatives at **Palo Alto Networks (PANW)**. 
 
-I am a **Principal Machine Learning Engineer and Security Researcher** with over a decade of experience spanning cybersecurity, machine learning systems, network security, and cloud-native infrastructure. 
+My work focuses on architecting and deploying enterprise-scale intelligent security systems. Specifically, I specialize in **machine learning-based network threat detection and response**. By injecting advanced machine learning paradigms straight into low-latency infrastructure, my team and I translate complex theoretical AI into battle-tested production engines capable of defending modern cloud-native environments. **Driven by these industrial defense challenges, my engineering and research initiatives at Palo Alto Networks have yielded 10+ filed/issued U.S. patents.**
 
-Currently, I lead critical research and production initiatives at **Palo Alto Networks**, where I specialize in architecture and deploying enterprise-scale malicious traffic detection, encrypted command-and-control (C2) analysis, and eBPF-driven telemetry analytics. My work bridges the gap between high-throughput data science workflows and robust kernel-space defense mechanisms, translating cutting-edge AI paradigms into full-scale production products.
-
-I obtained my **Ph.D. in Computer Science and Engineering** from **Texas A&M University** under the supervision of Dr. Guofei Gu. My research on programmable security framework, SDN/NFV vulnerabilities, and automated synthesis has led to **10+ filed/issued U.S. patents** and publications in premier security venues, including **USENIX Security, NDSS, ACM CCS, IEEE TIFS, and IEEE/ACM TON**.
+I earned my **Ph.D. in Computer Science and Engineering** from **Texas A&M University** under the mentorship of Dr. Guofei Gu. My foundational academic research focused on programmable security frameworks, SDN/NFV zero-trust architecture, and automated threat synthesis, resulting in numerous publications in premier security venues, including *USENIX Security, NDSS, ACM CCS, IEEE TIFS, and IEEE/ACM TON*.
 
 ---
 
@@ -28,16 +23,6 @@ I obtained my **Ph.D. in Computer Science and Engineering** from **Texas A&M Uni
 * **[Publication]** Our paper *"SysFlow: Towards a Programmable Zero Trust Framework for System Security"* got published in **IEEE TIFS**.
 
 ---
-
-## Technical Toolbox
-
-* **Machine Learning & Data Science:** PyTorch, TensorFlow, scikit-learn, Kubeflow, Apache Spark, MLOps Pipelines, Sequential Classification, NLP for Threat Intelligence.
-* **Networking & Systems Security:** eBPF/XDP Telemetry, Linux Kernel-space Programming, TCP/IP, SDN/NFV Architecture, Open Virtual Switch (OVS), Network Traffic Diagnostics.
-* **Infrastructure & Languages:** Python, Java, Golang, C/C++, Linux Shell, Docker, Kubernetes, OpenShift, High-Throughput Distributed Systems.
-* **Certificates:** Cisco Certified Internetwork Expert (CCIE) Routing & Switching #26810
-
----
-
 
 ## Selected Publications ([google scholar](https://scholar.google.com/citations?user=c5prrg8AAAAJ&hl=en))
 
