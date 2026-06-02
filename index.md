@@ -69,11 +69,11 @@ I earned my Ph.D. in Computer Science and Engineering from Texas A&M University 
 ---
 
 ## Selected Patents
-- **[Deep Learning Inference]** **Lei Xu**, Stefan Achleitner, and Yu Fu. *"Deep learning for in-line detection of malicious command and control traffic from unstructured payloads."* US Patent Application.
-- **[GenAI & Data Security]** **Lei Xu**, Yu Fu, and Mei Wang. *"Graph-based detection of conflicting aliases in language model-based text to database query conversion systems."* US Patent Application.
+- **[GenAI & Data Security]** **Lei Xu**, Yu Fu, and Mei Wang. *"Graph-based detection of conflicting aliases in language model-based text to database query conversion systems."* US Patent Application 18/932,084, 2026.
+- **[ML for malware traffic detection]** Chitra Priyaa Sathya Moorthy and **Lei Xu**. "Deep learning for in-line detection of malicious command and control traffic from unstructured payloads."* US Patent Application 18/649,280, 2025.
 - **[GenAI & NLP Search]** **Lei Xu**, Zhepu Zhao, Yu Fu, Ran Xia, and Mei Wang. *"Global search of a security related data store using natural language processing."* US Patent Application 18/500,123.
 - **[Systems Telemetry]** **Lei Xu**, Yang Ji, and Yu Fu. *"Kernel space feature generation for user space machine learning-based malicious network traffic detection."* US Patent Application 18/355,486.
-- **[Encrypted Traffic Security]** **Lei Xu**, Stefan Achleitner, Yu Fu, and Shengming Xu. *"Inline detection of encrypted malicious network sessions."* US Patent Application 17/447,064.
+- **[Encrypted Traffic Detection]** **Lei Xu**, Stefan Achleitner, Yu Fu, and Shengming Xu. *"Inline detection of encrypted malicious network sessions."* US Patent Application 17/447,064.
 - **[Cross-Protocol AI]** **Lei Xu**, Taojie Wang, and Shengming Xu. *"Cross protocol malware traffic detection using a two-layer ML architecture."* US Patent Application 18/394,403.
 - **[Browser Guard & CDR]** **Lei Xu**, Yu Fu, and Mei Wang. *"Machine learning-based content disarm and reconstruction with web browser prefetching."* US Patent Application.
 - **[Adversarial ML Defense]** Ajaya Neupane, Yu Fu, **Lei Xu**, Mei Wang, and Fikirte Ayalke Demmese. *"Adversarial training for malicious protocol data unit detection with field value perturbations."* US Patent Application 18/482,719.
