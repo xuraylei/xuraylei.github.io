@@ -69,9 +69,15 @@ I earned my Ph.D. in Computer Science and Engineering from Texas A&M University 
 ---
 
 ## Selected Patents
+- **[Deep Learning Inference]** **Lei Xu**, Stefan Achleitner, and Yu Fu. *"Deep learning for in-line detection of malicious command and control traffic from unstructured payloads."* US Patent Application.
+- **[GenAI & Data Security]** **Lei Xu**, Yu Fu, and Mei Wang. *"Graph-based detection of conflicting aliases in language model-based text to database query conversion systems."* US Patent Application.
+- **[GenAI & NLP Search]** **Lei Xu**, Zhepu Zhao, Yu Fu, Ran Xia, and Mei Wang. *"Global search of a security related data store using natural language processing."* US Patent Application 18/500,123.
 - **[Systems Telemetry]** **Lei Xu**, Yang Ji, and Yu Fu. *"Kernel space feature generation for user space machine learning-based malicious network traffic detection."* US Patent Application 18/355,486.
 - **[Encrypted Traffic Security]** **Lei Xu**, Stefan Achleitner, Yu Fu, and Shengming Xu. *"Inline detection of encrypted malicious network sessions."* US Patent Application 17/447,064.
+- **[Cross-Protocol AI]** **Lei Xu**, Taojie Wang, and Shengming Xu. *"Cross protocol malware traffic detection using a two-layer ML architecture."* US Patent Application 18/394,403.
+- **[Browser Guard & CDR]** **Lei Xu**, Yu Fu, and Mei Wang. *"Machine learning-based content disarm and reconstruction with web browser prefetching."* US Patent Application.
 - **[Adversarial ML Defense]** Ajaya Neupane, Yu Fu, **Lei Xu**, Mei Wang, and Fikirte Ayalke Demmese. *"Adversarial training for malicious protocol data unit detection with field value perturbations."* US Patent Application 18/482,719.
+- **[Cloud Engine Optimization]** Yu Fu, **Lei Xu**, Jin Chen, Zhibin Zhang, Bo Qu, and Stefan Achleitner. *"Sequential dual machine learning models for effective cloud detection engines."* US Patent Application 17/862,877.
 - **[Targeted Threat Detection]** Zhibin Zhang, Jin Chen, Yu Fu, Stefan Achleitner, Qu Bo, and **Lei Xu**. *"Network attack detection with targeted feature extraction from exploit tools."* US Patent Application 17/862,869.
 - **[Cloud Security Architecture]** David Ott, **Lei Xu**, and Dennis R. Moreau. *"Extensible information architecture for enabling programming security in enterprise clouds."* US Patent Application 16/288,681.
 - **[Cross-Domain Host Protection]** David Ott, **Lei Xu**, Ruimin Sun, Vijay Ganti, and Dennis R. Moreau. *"Security protection for a host computer in a computer network using cross-domain security-relevant information."* US Patent Application 16/255,551.
