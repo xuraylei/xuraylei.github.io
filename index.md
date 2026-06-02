@@ -1,7 +1,8 @@
 # Lei Xu (徐雷)
 
-**Principal Machine Learning Engineer & Security Researcher @ Palo Alto Networks**
-**PhD. @ TAMU**  
+**Principal Machine Learning Engineer & Security Researcher at Palo Alto Networks**
+
+**Ph.D. in Computer Science and Engineering, Texas A&M University**
 
 
 [![Email](https://img.shields.io/badge/Email-x.rayyle%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:x.rayyle@gmail.com)
