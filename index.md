@@ -1,4 +1,4 @@
-# Lei Xu (徐磊)
+# Lei Xu (徐雷)
 
 **Principal Machine Learning Engineer & Security Researcher at Palo Alto Networks**
 
